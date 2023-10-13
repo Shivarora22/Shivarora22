@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Shiv Arora !
+### Hi there 👋 I am Shiv Arora !
 
 # 💫 About Me:
 🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on Android Projects<br>🌱 I’m currently learning Jetpack Compose<br>⚡ Fun fact - I am a fast learner
