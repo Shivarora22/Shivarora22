@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiv Arora</h1>
-<h3 align="center">Native Android Developer with a strong foundation in Node.js and Django, recognized for leadership and innovation in Google Developer Student Clubs.</h3>
+<h3 align="center">Backend Developer with a passion for clean, high-quality code. I enjoy exploring new technologies and always aim to build efficient, scalable solutions. Also experienced in Node.js, Django, and Native Android Development.</h3>
 
 - 🔭 I’m currently working as **Software Developer Intern at DeepLogicTech India Pvt. Ltd.**
 
